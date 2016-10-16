@@ -7,4 +7,4 @@ in the "bchtweets.py" file).
 
 More details at this blog post:
 
-[http://itisbiz.com/bc-hydro-bcstorm-social-media-storm/] (http://itisbiz.com/bc-hydro-bcstorm-social-media-storm/)
+[https://009co.com/?p=215] (https://009co.com/?p=215)
